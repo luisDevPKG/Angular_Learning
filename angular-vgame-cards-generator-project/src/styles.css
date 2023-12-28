@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+h1 {
+    margin-bottom: 1em;
+}
+.card__cont-sty {
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 10px;
+}
